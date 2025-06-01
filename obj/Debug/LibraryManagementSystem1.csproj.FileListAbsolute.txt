@@ -1,0 +1,36 @@
+C:\Users\TLS\source\repos\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\LibraryManagementSystem1.exe.config
+C:\Users\TLS\source\repos\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\LibraryManagementSystem1.exe
+C:\Users\TLS\source\repos\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\LibraryManagementSystem1.pdb
+C:\Users\TLS\source\repos\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Form1.resources
+C:\Users\TLS\source\repos\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Forms.BookForm.resources
+C:\Users\TLS\source\repos\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Forms.FacultyForm.resources
+C:\Users\TLS\source\repos\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Forms.LoginForm.resources
+C:\Users\TLS\source\repos\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Forms.MainForm.resources
+C:\Users\TLS\source\repos\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Forms.MemberForm.resources
+C:\Users\TLS\source\repos\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Forms.ReportForm.resources
+C:\Users\TLS\source\repos\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Forms.StudentForm.resources
+C:\Users\TLS\source\repos\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Forms.TransactionForm.resources
+C:\Users\TLS\source\repos\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Properties.Resources.resources
+C:\Users\TLS\source\repos\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.csproj.GenerateResource.cache
+C:\Users\TLS\source\repos\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.csproj.CoreCompileInputs.cache
+C:\Users\TLS\source\repos\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.exe
+C:\Users\TLS\source\repos\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.pdb
+C:\Users\TLS\source\repos\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.csproj.AssemblyReference.cache
+E:\LibraryManagementSystem1 (2)\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\LibraryManagementSystem1.exe.config
+E:\LibraryManagementSystem1 (2)\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\LibraryManagementSystem1.exe
+E:\LibraryManagementSystem1 (2)\LibraryManagementSystem1\LibraryManagementSystem1\bin\Debug\LibraryManagementSystem1.pdb
+E:\LibraryManagementSystem1 (2)\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.csproj.AssemblyReference.cache
+E:\LibraryManagementSystem1 (2)\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Form1.resources
+E:\LibraryManagementSystem1 (2)\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Forms.BookForm.resources
+E:\LibraryManagementSystem1 (2)\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Forms.FacultyForm.resources
+E:\LibraryManagementSystem1 (2)\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Forms.LoginForm.resources
+E:\LibraryManagementSystem1 (2)\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Forms.MainForm.resources
+E:\LibraryManagementSystem1 (2)\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Forms.MemberForm.resources
+E:\LibraryManagementSystem1 (2)\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Forms.ReportForm.resources
+E:\LibraryManagementSystem1 (2)\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Forms.StudentForm.resources
+E:\LibraryManagementSystem1 (2)\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Forms.TransactionForm.resources
+E:\LibraryManagementSystem1 (2)\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.Properties.Resources.resources
+E:\LibraryManagementSystem1 (2)\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.csproj.GenerateResource.cache
+E:\LibraryManagementSystem1 (2)\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.csproj.CoreCompileInputs.cache
+E:\LibraryManagementSystem1 (2)\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.exe
+E:\LibraryManagementSystem1 (2)\LibraryManagementSystem1\LibraryManagementSystem1\obj\Debug\LibraryManagementSystem1.pdb
