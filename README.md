@@ -1,7 +1,8 @@
 # 📚 Library Management System (C# + SQL Server)
 
 A complete desktop-based Library Management System built using **C# Windows Forms** and **SQL Server**. The system is designed for administrative use, offering features for managing members, students, faculty, books, transactions, and reports.
-
+ In the project screenshots folder u can watch UI of project.
+ 
 ---
 
 ## 🔐 Admin Login
